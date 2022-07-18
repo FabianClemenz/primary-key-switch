@@ -1,0 +1,3 @@
+.venv
+primary_key_switch/db.sqlite3
+.idea
