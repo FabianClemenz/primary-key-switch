@@ -1,6 +1,6 @@
 # Code for `Primary Key Switch`
 
-This is the repository for our blog entry on switch from one Primary Key to another.
+This is the repository for my [blog entry](https://fabianclemenz.github.io/posts/django-101-switching-primary-key-on-existing-models/) on switch from one Primary Key to another.
 
 To set it up, run `pipenv install` and create the file `.env` with providing the `SECRET_KEY`.
 
