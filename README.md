@@ -1,6 +1,8 @@
 # Code for `Primary Key Switch`
 
-This is the repository for our blog entry on switch from one Primary Key to another
+This is the repository for our blog entry on switch from one Primary Key to another.
+
+To set it up, run `pipenv install` and create the file `.env` with providing the `SECRET_KEY`.
 
 ## Initial Data
 
@@ -19,7 +21,7 @@ Create temporary FK field on other models which have already a FK relation to ou
 
 ### Step 3 - add new Model for M2M
 
-create a temporary Through Model for M2M relations (`0007_testthroughmodel_and_more`) and copy data 
+create a temporary Through Model for M2M relations (`0007_testthroughmodel_and_more`) and copy data
 
 ### Step 4 - delete old connections
 
