@@ -35,7 +35,7 @@ remove old connections (`0009_remove_test_foreignkeymodel_test_model_and_more`)
 
 set the uuid field as new pk (`0011_remove_testmodel_id_and_more`)
 
-## Step 7 - rename fields, remove _uuid suffix
+### Step 7 - rename fields, remove _uuid suffix
 
 rename the fields and remove _uuid suffix - so these can be used as the fields before (`0012_rename_test_model_uuid_testforeignkeymodel_test_model_and_more`)
 
